@@ -1,4 +1,4 @@
-![Banner](https://github.com/zachmort/Olympics-data-analysis-and-visualization/blob/main/olympics.jpg)
+![Banner](https://github.com/zachmort/youtube_analytics/blob/main/banner_youtube.jpg)
 
 
 # Table of contents
@@ -36,7 +36,7 @@ Questions I had going into this project:
 <!-- Add a demo for your project -->
 Below is a screenshot of one of the Seaborn charts I created:
 
-![Picture](https://github.com/zachmort/Olympics-data-analysis-and-visualization/blob/main/Capture.PNG)
+![Picture](https://github.com/zachmort/youtube_analytics/blob/main/images/Likes_to_Views_Ratio_Distribution.png)
 
 <!-- ADD Tableau studio dashbaord below -->
 
