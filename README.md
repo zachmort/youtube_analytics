@@ -2,25 +2,19 @@
 
 
 # Table of contents
+- [Table of contents](#table-of-contents)
 - [Project Title](#Youtube_Channel_Analysis)
 - [Preview](#preview)
 - [Packages Used](#Packages-Used)
-- [Table of contents](#table-of-contents)
+- [Links](#reference-links)
 
 
 
 # Youtube_Channel_Analysis
 <!-- Add banner here -->
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/zachmort/youtube_analytics)
 ![GitHub issues](https://img.shields.io/github/issues-raw/zachmort/youtube_analytics)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/zachmort/youtube_analytics)
-
-<!-- Describe your project in brief -->
-<!-- Data download link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results -->
-Documentation: https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.html
-Channel ID finder: https://commentpicker.com/youtube-channel-id.php
-youtube.com link: youtube.com
 
 
 Have you ever wonderd what was the most popuar or most liked video of your favorte youtuber? Well I have! 
@@ -49,3 +43,7 @@ Below is a screenshot of one of the Seaborn charts I created:
 - tqdm
 - sys
 
+# Reference Links
+Documentation: https://googleapis.github.io/google-api-python-client/docs/dyn/youtube_v3.html </br>
+Channel ID finder: https://commentpicker.com/youtube-channel-id.php </br>
+youtube.com link: https://youtube.com
